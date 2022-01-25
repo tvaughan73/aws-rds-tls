@@ -1,4 +1,4 @@
-package aws_rds_tls
+package awsrdstls
 
 import (
 	"crypto/tls"

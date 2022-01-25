@@ -1,4 +1,4 @@
-package aws_rds_tls
+package awsrdstls
 
 const AWSRDSRootCert = `-----BEGIN CERTIFICATE-----
 MIIEEjCCAvqgAwIBAgIJAM2ZN/+nPi27MA0GCSqGSIb3DQEBCwUAMIGVMQswCQYD
