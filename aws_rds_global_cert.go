@@ -1,4 +1,4 @@
-package awsrdstls
+package rdstls
 
 const AWSRDSRootCert = `-----BEGIN CERTIFICATE-----
 MIIEEjCCAvqgAwIBAgIJAM2ZN/+nPi27MA0GCSqGSIb3DQEBCwUAMIGVMQswCQYD
