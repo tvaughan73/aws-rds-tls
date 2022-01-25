@@ -1,3 +1,3 @@
-module github.com/go-playground/aws-rds-tls
+module github.com/tomvaughan73/aws-rds-tls
 
 go 1.16
