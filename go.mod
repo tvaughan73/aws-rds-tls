@@ -1,3 +1,3 @@
-module aws-rds-tls
+module github.com/go-playground/aws-rds-tls
 
 go 1.17
